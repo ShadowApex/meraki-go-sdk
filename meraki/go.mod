@@ -1,4 +1,4 @@
-module github.com/ShadowApex/meraki-go-sdk
+module github.com/ShadowApex/meraki-go-sdk/meraki
 
 go 1.13
 
